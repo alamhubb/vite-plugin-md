@@ -1,0 +1,22 @@
+{
+  "name": "vite-plugin-md-string",
+  "version": "1.0.0",
+  "description": "get markdown string from *.md",
+  "keywords": [
+    "markdown",
+    "md",
+    "markdown-loader",
+    "md-loader",
+    "vite"
+  ],
+  "main": "index.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/socialuni/vite-plugin-md-string.git"
+  },
+  "author": "socialuni",
+  "license": "MIT",
+  "devDependencies": {
+    "rollup-pluginutils": "^2.8.2"
+  }
+}
