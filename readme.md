@@ -2,6 +2,11 @@
 
 ### this is get markdown string from *.md vite-plugin
 
+## install
+```shell
+npm install vite-plugin-md-string -D
+```
+
 ## usage
 
 ```js
