@@ -1,7 +1,8 @@
 # vite-plugin-md-string
 
-## get markdown string from *.md
+### get markdown string from *.md
 
+## usage
 
 ```js
 import mdString from "vite-plugin-md-string";
