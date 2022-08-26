@@ -10,7 +10,7 @@ npm install vite-plugin-md-string -D
 ## usage
 
 ```js
-import mdString from "vite-plugin-md-string";
+import mdString from 'vite-plugin-md-string'
 
 // https://vitejs.dev/config/
 export default defineConfig({
