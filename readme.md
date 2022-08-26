@@ -1,6 +1,6 @@
 # vite-plugin-md-string
 
-### get markdown string from *.md
+### this is get markdown string from *.md vite-plugin
 
 ## usage
 
@@ -19,4 +19,16 @@ export default defineConfig({
         }
     }
 })
+```
+
+## demo
+### input ./hello.md
+```markdown
+# hello world
+```
+### output ./hello.js
+```markdown
+import helloStr from './hello.md'
+
+console.log(helloStr) // hello world
 ```

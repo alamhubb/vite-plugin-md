@@ -1,12 +1,14 @@
 {
   "name": "vite-plugin-md-string",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "get markdown string from *.md",
   "keywords": [
     "markdown",
     "md",
     "markdown-loader",
     "md-loader",
+    "vite-plugin-md",
+    "vite-plugin",
     "vite"
   ],
   "main": "index.ts",
